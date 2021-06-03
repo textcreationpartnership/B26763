@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Memory of the just is blessed and is to be had in everlasting remembrance a most useful (pithy and deserved) commendation of (that pious and reverend minister of the gospel) Mr. Thomas Wadsworth, who changed this life for a better, October 29, 1676 : printed in meeter to perfume his name and keep alive his memory to future posterity.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26763</idno><idno type="EEBO-CITATION">14956240</idno>
+  <idno type="VID">206140</idno>
+  <idno type="EEBO-PROQUEST">2248515523</idno>
+  
+            <idno type="STC">Wing M1702A</idno>
+            <idno type="OCLC">14956240</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1575:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Memory of the just is blessed and is to be had in everlasting remembrance a most useful (pithy and deserved) commendation of (that pious and reverend minister of the gospel) Mr. Thomas Wadsworth, who changed this life for a better, October 29, 1676 : printed in meeter to perfume his name and keep alive his memory to future posterity.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Printed inside ornamental mourning border.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wadsworth, Thomas, 1630-1676 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:206140:1"/>
+            <pb facs="tcp:206140:1"/>
+            <pb facs="tcp:206140:2"/>
+            <head>
+               <figure>
+                  <figDesc>lionesque skull crowned by a winged time-turner</figDesc>
+                  <p>MEMENTO MORI</p>
+               </figure>
+               <q>
+                  <hi>The Memory of the Just is blessed, and is to be had in everlasting remembrance.</hi>
+               </q>
+            </head>
+            <head>A most Useful (Pithy and Deserved) Commendation of (that Pious and Reverend Minister of the Gospel) Mr. Thomas Wadsworth.</head>
+            <head type="sub">Who changed this Life for a better, <hi>October</hi> 29. 1676. Printed in Meeter to perfume his Name, and keep alive his Memory to future Posterity.</head>
+            <p>
+               <figure>
+                  <figDesc>poem is framed by images of skeletons, skulls, time-turners, and graveyard implements, as well as two more banners reading MEMENTO MORI</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>IS <hi>Wadsworth</hi> Dead! how can this be resolv'd!</l>
+               <l>Wee'll grant you the <hi>Compositum</hi> that's dissolv'd;</l>
+               <l>But for his Soul, it Lives among the Blest,</l>
+               <l>His Body's but Asleep and gone to Rest.</l>
+               <l>He Preacht and Wrote, o'th Souls Immortality,</l>
+               <l>Which Doctrine he finds True, now in Glory.</l>
+               <l>If Soul-sleepers, could into Heaven peep,</l>
+               <l>They would convinc'd be, the Soul goes not to sleep.</l>
+               <l>For then and there, they quickly would behold</l>
+               <l>Holy <hi>Wadsworth</hi>'s Soul, shine more bright than Gold.</l>
+               <l>Acting its Part 'mongst that Heavenly Quire,</l>
+               <l>With lively vig'rous Zeal as hot as Fire:</l>
+               <l>Where Living, He shall Live and never Dye,</l>
+               <l>No more to Sin, nor Groan through Pain and Cry;</l>
+               <l>Of <hi>Kidney Ʋlcer,</hi> and <hi>Stone</hi> in <hi>Bladder,</hi>
+               </l>
+               <l>Which to him prov'd a Happy <hi>Jacob's</hi> Ladder.</l>
+               <l>For though 'twas painful for him to ascend,</l>
+               <l>Yet come to Top, it did in Glory end.</l>
+               <l>So Death to him, save One, proved his best Friend.</l>
+               <l>Which one is <hi>Christ,</hi> through whose Blood and Merit,</l>
+               <l>Alone 'tis that, He's with God in Spirit.</l>
+               <l>Which Truth believed, proves Soul Immortality;</l>
+               <l>Likewise disproves blind Popes Purgatory.</l>
+               <l>And what a joyful Meeting may one think</l>
+               <l>Had this Blest Soul upon an Eye-lids wink,</l>
+               <l>With that Blest Company which is above,</l>
+               <l>With Patriarch's, Martyrs, and Holy <hi>Love;</hi>
+               </l>
+               <l>Also with others of a later Date,</l>
+               <l>Who went to Heaven at a cheaper rate.</l>
+               <l>As Golden <hi>Havilah</hi> and Holy <hi>Jesse,</hi>
+               </l>
+               <l>Reverend <hi>Caryl, Venning,</hi> and Blest <hi>Janeway,</hi>
+               </l>
+               <l>With Learned <hi>Wilkison,</hi> and <hi>Whitaker,</hi>
+               </l>
+               <l>Whose Names on Earth, still perfumed are;</l>
+               <l>With their great Learning, Labour and Holy Life,</l>
+               <l>Which whil'st they lived, was in them most Rife.</l>
+               <l>Their Learning now's ended, their Labour's done;</l>
+               <l>They have run their Race, and the Prize have won.</l>
+               <l>So Reverend <hi>West, Pledger,</hi> and Sweet Mr. <hi>Well.</hi>
+               </l>
+               <l>Who spent themselves, to save poor Souls from Hell.</l>
+               <l>But now are all, to Heaven gone from Earth,</l>
+               <l>And Blest <hi>Wadsworth</hi> last, hath yielded up his Breath.</l>
+               <l>And with them all, had a joyful Greeting,</l>
+               <l>Where Persecutor can't disturb their Meeting.</l>
+               <l>But what was <hi>Wadsworth,</hi> that thus much is said,</l>
+               <l>Of him, whose body, now in grave is laid?</l>
+               <l>Was he a man, who in his life, deserv'd?</l>
+               <l>To be at's death, so honourably serv'd:</l>
+               <l>Yea he was, a man, whose life, deserv'd it:</l>
+               <l>Let none, therefore, envy his death hath it.</l>
+               <l>For th'honour, which to him's given at's death,</l>
+               <l>He well deserv'd, in spending, of his breath:</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or welf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, and th'good of mens immortal souls,</l>
+               <l>To fit, and them prepare, 'gainst the bell touls.</l>
+               <l>When first, he came from University,</l>
+               <l>At <hi>New<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngton Butts,</hi> he lift up his cry:</l>
+               <l>To make dead souls, to hear, his Masters voice,</l>
+               <l>And so, leave Sin, and serve God out of choice.</l>
+               <l>And so loud cry'd, to sinners, gone astray:</l>
+               <l>That many, he brought back, to Heavens way.</l>
+               <l>Two Sermons, he did preach, on each Lords day:</l>
+               <l>Each Morn, i'th' Week, he did expound and pray.</l>
+               <l>Besides, he often visited his Flock,</l>
+               <l>And at their doors, most frequently did knock.</l>
+               <l>To see, and know, each souls state and condition,</l>
+               <l>In which, he shew'd himself a good Physician.</l>
+               <l>And 'cordingly, his remedy, apply'd:</l>
+               <l>The weak, with strength, the sad, with joy, supply'd.</l>
+               <l>And's hungry souls, by him, was fed with food:</l>
+               <l>So's hungry bodies, with that which was good.</l>
+               <l>He sought the flock, more than he did the fleece:</l>
+               <l>To do them good, was both his joy and peace.</l>
+               <l>To Rich and Poor, he preacht impartially:</l>
+               <l>With great conversion, God seal'd his Ministry.</l>
+               <l>And when, for Conscience sake, he was turn'd out;</l>
+               <l>In Countrey, Town, and City, preach'd about.</l>
+               <l>As he preach'd, in Pulpit, frequent and rife:</l>
+               <l>So he preach'd, in practice, by his holy life.</l>
+               <l>His life was perfect, and his death was peace:</l>
+               <l>He fed his Flock, but never took the Fleece;</l>
+               <l>Therefore let's Brethren, him for pattern take:</l>
+               <l>And thence learn, to do more, for th' Lord Christ's sake.</l>
+               <l>For though, God gave him great ability:</l>
+               <l>Yet still he shew'd forth as great Humility.</l>
+               <l>At length God's Providence, which ruleth well,</l>
+               <l>At <hi>Tibbals</hi> plac'd him, to save some from Hell:</l>
+               <l>And there he did not preach nor run in vain,</l>
+               <l>Some fruit God gave him, to reward his pain.</l>
+               <l>For many, there by him was converted;</l>
+               <l>Who from th' Faith of Christ, had much departed.</l>
+               <l>Keeping still his Flock he had at <hi>London:</hi>
+               </l>
+               <l>Though for it he was like to be undone.</l>
+               <l>Keeping Pluralities, but not for gain:</l>
+               <l>But to save more souls from eternal pain.</l>
+               <l>And when th' Persecution was most hot,</l>
+               <l>Did not neglect to feed his Flocks a jot.</l>
+               <l>But preach he would, by day, or by the night:</l>
+               <l>Though sometimes rude Souldiers did much him fright.</l>
+               <l>And thus he serv'd both places, though by stealth,</l>
+               <l>Until he found it did impair his health:</l>
+               <l>And then, with counsel, did himself advise,</l>
+               <l>That he might not be th' Peoples Sacrifice.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap> m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave, yet <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him well;</l>
+               <l>He lov'd them again, therefore could not tell</l>
+               <l>Which to forsake, both were to him so dear.</l>
+               <l>This thing, to decide, cost him many a tear.</l>
+               <l>Likewise, each Flock, a claim to him did lay,</l>
+               <l>Whose Shepherd to be, t'guid them Heavens way.</l>
+               <l>From whence, some small contention did arise</l>
+               <l>Between both Flocks, yet both, were godly wise.</l>
+               <l>At length, by counsel, he did come to dwell</l>
+               <l>At <hi>Pickleherring,</hi> a place known full well.</l>
+               <l>But when preach'd two Sermons had at <hi>Dead-place,</hi>
+               </l>
+               <l>His Master sent grim death to look him i'th' face.</l>
+               <l>Preaching th' last, he made the people wonder,</l>
+               <l>He did, so long and loud, 'gainst Sin thunder.</l>
+               <l>And before he ended and went his way,</l>
+               <l>Did summon the World to meet him at Judge day.</l>
+               <l>And so that prov'd, for him they'l see no more,</l>
+               <l>Till they meet to see him the Lord before.</l>
+               <l>For 'th Twenty ninth <hi>October</hi> the Lords one day,</l>
+               <l>'Bout two o'th Clock his Lord took him away.</l>
+               <l>He hath fought his Fight, and run throughout's Race,</l>
+               <l>And now to Heaven's gone to take his place.</l>
+               <l>Thus God himself hath ended two Flocks strife,</l>
+               <l>By taking from them their dear Shepherds life.</l>
+               <l>But what a great loss this is, who can tell?</l>
+               <l>(None) till experience to us it spell:</l>
+               <l>Great loss to th' Church, no less to his Relations,</l>
+               <l>Yea, a great loss toth' whole English Nation.</l>
+               <l>He was a man with whom few could compare,</l>
+               <l>To find the like, would any man out-ware.</l>
+               <l>Therefore let all that doth this sad News hear,</l>
+               <l>Endeavour to bedew it with a tear.</l>
+               <l>Let all Gods Children in Love unit'd be,</l>
+               <l>That he may not from them take their Ministry▪</l>
+               <l>Let Sinners all, them of their Sinnes repent,</l>
+               <l>Which hath provoked God to make this rent.</l>
+               <l>Let Magistry, Ministry, and People all,</l>
+               <l>Turn from their sin and upon the Lord call:</l>
+               <l>For mercy to be shewn to this Nation,</l>
+               <l>That we become not a Desolation.</l>
+               <l>Let all that go to hear at <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad mans place,</hi>
+               </l>
+               <l>Mourning Remember Bless'd <hi>Wadswort<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s Face;</l>
+               <l>And pray his D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath may Preach now he is Dead,</l>
+               <l>That Sinners dying ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> find the Grave a B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d:</l>
+               <l>To lodge their Bodies till the Resurrection,</l>
+               <l>And then Awake with a good Complexion.</l>
+               <l>Let <hi>Tibbals</hi> Flock improve this loss so well,</l>
+               <l>As to come to Heaven and escape Hell.</l>
+            </lg>
+            <div type="epitaph">
+               <head>HIS EPITAPH.</head>
+               <lg>
+                  <l>
+                     <hi>HEre sleeps the Body of Holy</hi> Wadsworth <hi>Blest,</hi>
+                  </l>
+                  <l>
+                     <hi>Disturb him not, his Soul is gone to R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st.</hi>
+                  </l>
+                  <l>
+                     <hi>And this his Dust shall have a Glorious Rising,</hi>
+                  </l>
+                  <l>
+                     <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en</hi> Chirst <hi>comes <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t Resurrection Morning:</hi>
+                  </l>
+                  <l>
+                     <hi>He Preach'd in Life, and Dead he Preacheth still,</hi>
+                  </l>
+                  <l>
+                     <hi>To Sinners, to keep and ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y Gods will,</hi>
+                  </l>
+                  <l>
+                     <hi>Holy lives to live, all Sin to forsak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi>
+                  </l>
+                  <l>
+                     <hi>That they with him in Glory may partake.</hi>
+                  </l>
+               </lg>
+               <closer>Memento Mortis.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
